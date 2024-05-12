@@ -18,5 +18,7 @@ namespace CalculatorApp
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new formCalculator());
         }
+
+        
     }
 }
